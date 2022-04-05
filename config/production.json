@@ -1,0 +1,10 @@
+{
+    "Opendata": {
+        "url": "https://l0dd9wp777.execute-api.us-east-2.amazonaws.com"
+    },
+    "CIC": {
+        "US": "https://account.cloud.tibco.com",
+        "EU": "https://eu.account.cloud.tibco.com",
+        "AU": "https://au.account.cloud.tibco.com"
+    }
+}
